@@ -1,5 +1,6 @@
 <h1>Hi, I'm Furkan 👋</h1>
-<h3">About me</h3>
+
+<h3>About me</h3>
 
 - Born in Turkey and currently living there. 🇹🇷
 
@@ -12,7 +13,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 
 - [Twitter](https://twitter.com/surkanfuren) 🐤
 
