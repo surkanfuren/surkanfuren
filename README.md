@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>Hi, I'm Furkan 👋</h1>
+<h3">About me</h3>
 
-<!--
-**surkanfuren/surkanfuren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Born in Turkey and currently living there. 🇹🇷
 
-Here are some ideas to get you started:
+- Full stack developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Freelancing on [Upwork](https://www.upwork.com/freelancers/furkansuren) 👨🏻‍💻
+
+- Writing on [Medium](https://www.upwork.com/freelancers/furkansuren) 📝
+  
+
+
+
+<h3 align="left">Connect with me:</h3>
+
+- [Twitter](https://twitter.com/surkanfuren) 🐤
+
+- [Instagram](https://www.instagram.com/surkanfuren/) 📷
+
+- [Website](https://www.furkansuren.com/) 🌍
+
+- [Email](contact@furkansuren.com) ✉️
