@@ -2,7 +2,7 @@
 
 <h3>About me</h3>
 
-- Born in Turkey and currently living there. 🇹🇷
+- Born in Turkey and currently living there 🇹🇷
 
 - Full stack developer
 
@@ -16,8 +16,6 @@
 <h3 align="left">Connect with me</h3>
 
 - [Twitter](https://twitter.com/surkanfuren) 🐤
-
-- [Instagram](https://www.instagram.com/surkanfuren/) 📷
 
 - [Website](https://www.furkansuren.com/) 🌍
 
