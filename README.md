@@ -8,7 +8,6 @@
 
 - Freelancing on [Upwork](https://www.upwork.com/freelancers/furkansuren) 👨🏻‍💻
 
-- Writing on [Medium](https://www.upwork.com/freelancers/furkansuren) 📝
   
 
 
