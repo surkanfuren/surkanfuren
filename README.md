@@ -16,6 +16,4 @@
 
 - [Twitter](https://twitter.com/surkanfuren) 🐤
 
-- [Website](https://www.furkansuren.com/) 🌍
-
 - contact@furkansuren.com ✉️
