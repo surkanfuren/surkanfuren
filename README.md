@@ -18,4 +18,4 @@
 
 - [Website](https://www.furkansuren.com/) 🌍
 
-- [Email](contact@furkansuren.com) ✉️
+- contact@furkansuren.com ✉️
