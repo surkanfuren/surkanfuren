@@ -1,11 +1,6 @@
 <h1>Furkan</h1>
 
 <h3>About me</h3>
-
-- Born in Turkey and currently living there 🇹🇷
-
-- Full stack developer
-
 - Freelancing on [Upwork](https://www.upwork.com/freelancers/furkansuren) 👨🏻‍💻
 
   
